@@ -1,0 +1,10 @@
+C:\Users\atomar\source\repos\stateless example\stateless example\obj\Debug\stateless example.csproj.AssemblyReference.cache
+C:\Users\atomar\source\repos\stateless example\stateless example\obj\Debug\stateless example.csproj.CoreCompileInputs.cache
+C:\Users\atomar\source\repos\stateless example\stateless example\bin\Debug\stateless example.exe.config
+C:\Users\atomar\source\repos\stateless example\stateless example\bin\Debug\stateless example.exe
+C:\Users\atomar\source\repos\stateless example\stateless example\bin\Debug\stateless example.pdb
+C:\Users\atomar\source\repos\stateless example\stateless example\bin\Debug\Stateless.dll
+C:\Users\atomar\source\repos\stateless example\stateless example\bin\Debug\Stateless.xml
+C:\Users\atomar\source\repos\stateless example\stateless example\obj\Debug\stateless example.csproj.CopyComplete
+C:\Users\atomar\source\repos\stateless example\stateless example\obj\Debug\stateless example.exe
+C:\Users\atomar\source\repos\stateless example\stateless example\obj\Debug\stateless example.pdb
